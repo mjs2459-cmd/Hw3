@@ -1,5 +1,7 @@
 # Homework Assignment: Data Formats and Access
 
+## Code and work saved in the repo within file hw3.ipynb or hw3.md
+
 ## Question 1. Dimensions and Variables
 Dimension Names:
 
